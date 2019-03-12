@@ -1,13 +1,13 @@
 html {
-  background-color: #B2E2F6;
+  background-color: #b2e2f6;
 }
 
 .large {
-  font-family: 'Abril Fatface', cursive;
+  font-family: "Abril Fatface", cursive;
 }
 
 .regular {
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto, sans-serif;
 }
 
 .bottom {
@@ -25,5 +25,5 @@ z-index: 2;
 }
 
 p {
-  color: #EFA8CA;
+  color: #efA8ca;
 }
