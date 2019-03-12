@@ -18,13 +18,12 @@ html {
 @viewport { width: device-width; scale: 1; }
 
 .italic {
-  font-family: abril-fatface, serif;
+  font-family: 'Abril Fatface', cursive;
   font-weight: 400;
-  font-style: italic;
 }
 
 .regular {
-  font-family: adelle-sans, sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 700;
   font-style: normal;
 }
@@ -39,7 +38,7 @@ z-index: 2;
 
 .absolute {
   color: #fff;
-  left: 4em;
+  left: 5em;
   bottom: 4.5em;
 }
 
