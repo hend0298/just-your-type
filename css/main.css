@@ -4,6 +4,7 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+  background-color: #B2E2F6;
 }
 
 *, *::before, *::after {
@@ -15,3 +16,33 @@ html {
 @-o-viewport { width: device-width; scale: 1; }
 @-webkit-viewport { width: device-width; scale: 1; }
 @viewport { width: device-width; scale: 1; }
+
+.italic {
+  font-family: abril-fatface, serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.regular {
+  font-family: adelle-sans, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.bottom {
+  z-index: 1;
+}
+
+.top {
+z-index: 2;
+}
+
+.absolute {
+  color: #fff;
+  left: 4em;
+  bottom: 4.5em;
+}
+
+p {
+  color: #EFA8CA;
+}
