@@ -15,7 +15,7 @@ html {
 }
 
 .top {
-z-index: 2;
+  z-index: 2;
 }
 
 .absolute {
@@ -24,6 +24,10 @@ z-index: 2;
   bottom: 4.5em;
 }
 
-p {
-  color: #efA8ca;
+p, h1 {
+  color: #efa8ca;
+}
+
+span {
+  text-align: center;
 }
