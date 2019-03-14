@@ -20,7 +20,7 @@ html {
 
 .absolute {
   color: #fff;
-  left: 5em;
+  left: 4.5em;
   bottom: 4.5em;
 }
 
@@ -29,5 +29,10 @@ p, h1 {
 }
 
 span {
+  text-align: center;
+}
+
+.closer {
+  line-height: 1;
   text-align: center;
 }
