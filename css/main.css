@@ -8,6 +8,7 @@ html {
 
 .regular {
   font-family: Roboto, sans-serif;
+  line-height: 1.2;
 }
 
 .bottom {
@@ -20,8 +21,8 @@ html {
 
 .absolute {
   color: #fff;
-  left: 4.5em;
-  bottom: 3.5em;
+  left: 4.8em;
+  bottom: 2.4em;
 }
 
 p, h1 {
@@ -33,6 +34,5 @@ span {
 }
 
 .closer {
-  line-height: 1;
-  text-align: center;
+  line-height: .75;
 }
