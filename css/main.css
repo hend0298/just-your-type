@@ -1,5 +1,6 @@
 html {
   background-color: #b2e2f6;
+  max-width: 50em;
 }
 
 .large {
@@ -35,4 +36,8 @@ span {
 
 .closer {
   line-height: .75;
+}
+
+.middle {
+  text-align: center;
 }
