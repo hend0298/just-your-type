@@ -1,6 +1,5 @@
 html {
   background-color: #b2e2f6;
-  max-width: 50em;
 }
 
 .large {
@@ -28,14 +27,7 @@ p, h1 {
   color: #efa8ca;
 }
 
-span {
-  text-align: center;
-}
 
 .closer {
   line-height: .75;
-}
-
-.middle {
-  text-align: center;
 }
